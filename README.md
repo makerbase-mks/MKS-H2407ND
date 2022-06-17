@@ -8,3 +8,5 @@
 * The control signal uses the sink current driving method, which supports the direct driving of most single-chip microcomputers.
 * Use optocouplers to isolate all control signals.
 * With electrostatic discharge circuit.
+## How to buy
+[Aliexpress link](https://www.aliexpress.com/item/3256804217260480.htm)
