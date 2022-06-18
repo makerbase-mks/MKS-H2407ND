@@ -11,7 +11,7 @@
 # Parameter
 |Motherboard|MKS H2407ND|
 |------------|--------------------|
-|Voltage input range| DC6.5V-27V |
+|Input voltage range| DC6.5V-27V |
 |Rated input voltage| DC12V/24V |
 |Number of input channels| 2 |
 |Rated output current of each channel| 7A |
