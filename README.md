@@ -1,5 +1,5 @@
 # MKS-H2407ND
-# Feature:
+# Feature
 * Extremely small size, only 5.5cm×5.5cm.
 * Support motor voltage 7-24V, under voltage protection.
 * Dual motor interface, each rated output current is 7A.
