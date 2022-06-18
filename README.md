@@ -9,7 +9,7 @@
 * Use optocouplers to isolate all control signals.
 * With electrostatic discharge circuit.
 ## Parameter
-|Motherboard| MKS H2407ND |
+| Motherboard | MKS H2407ND |
 |------------|--------------------|
 |Voltage input range| DC6.5V-27V |
 |Rated input voltage| DC12V/24V |
