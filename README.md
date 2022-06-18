@@ -23,7 +23,7 @@
 |PWM range supported| 0~100% |
 |Support PWM frequency range| 0~10kHZ |
 |Operating temperature| -25℃~80℃ |
-|Size| 55mm*55mm*1.6mm |
+|Size| 55mm×55mm×1.6mm |
 |Motor noise| Low |
 ## How to buy
 [Aliexpress link](https://www.aliexpress.com/item/1005003340856835.html)
