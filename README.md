@@ -25,4 +25,4 @@
 |Size| 55mm*55mm*1.6mm |
 |Motor noise| Low |
 ## How to buy
-[Aliexpress link（PCBA）]([https://www.aliexpress.com/item/1005003340856835.html])
+[Aliexpress link](https://www.aliexpress.com/item/1005003340856835.html)
