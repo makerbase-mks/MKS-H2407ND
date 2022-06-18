@@ -16,7 +16,7 @@
 |Number of input channels| 2 |
 |Rated output current of each channel| 7A |
 |Peak current per channel| 50A |
-|Maximum suitable motor| 10V~40W 24V~120W |
+|Maximum suitable motor| 10V-40W 24V-120W |
 |Control signal voltage range| 3~6.5V |
 |Each control current| 3~11mA |
 |PWM range supported| 0~100% |
