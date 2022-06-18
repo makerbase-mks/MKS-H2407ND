@@ -8,7 +8,7 @@
 * The control signal uses the sink current driving method, which supports the direct driving of most single-chip microcomputers.
 * Use optocouplers to isolate all control signals.
 * With electrostatic discharge circuit.
-## Parameter
+# Parameter
 
 |Motherboard|MKS H2407ND|
 |------------|--------------------|
